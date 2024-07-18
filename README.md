@@ -1,1 +1,3 @@
-# miro_scrum
+# Miro Scrum
+
+# https://miro.com/welcomeonboard/U2R2UTE1UkJ6SHAwcnVSVDkxVWNLMHVtTHZYQmVsMUUyWnNLSEVWWFJNM2ZhTjYzSVZaT1NsTVFKUjlyOGthVXwzNDU4NzY0NTU4ODY5NTgyMzE4fDI=?share_link_id=330607847075
